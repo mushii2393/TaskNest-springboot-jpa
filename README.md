@@ -21,4 +21,4 @@ A user-friendly to-do list app built with Spring Boot, Spring MVC, JPA, and Hibe
 ## 💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/TaskNest-springboot-jpa.git
+   git clone https://github.com/mushii2393/TaskNest-springboot-jpa.git
