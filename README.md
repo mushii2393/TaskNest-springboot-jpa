@@ -50,7 +50,7 @@ A simple yet powerful web-based Todo Management Application built using **Spring
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/todo-springboot-app.git
+git clone https://github.com/mushii2393/TaskNest-springboot-jpa.git
 cd todo-springboot-app
 
 
